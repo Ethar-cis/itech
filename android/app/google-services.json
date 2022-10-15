@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851209449807",
+    "project_id": "iteach-f9a24",
+    "storage_bucket": "iteach-f9a24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851209449807:android:0191738e0c0b6b0ff0d53a",
+        "android_client_info": {
+          "package_name": "com.example.itech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851209449807-h5og10sjqp9a20jmsrr5u012kq84e2if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFY-0B3HdnYFJc0H5g3DYu6JqsIwXEfEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851209449807-h5og10sjqp9a20jmsrr5u012kq84e2if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
